@@ -41,13 +41,12 @@ Crafting clean, modern, and responsive web interfaces 💻
 
 ### 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/shokry-moh/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://twitter.com/yourprofile">
-  <img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=white">
+
 </a>
-<a href="mailto:your.email@example.com">
+<a href="shokry.codes.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
