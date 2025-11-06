@@ -1,46 +1,57 @@
 <!-- 💙 Modern Front-End Developer README by Shokry Mohamed 💙 -->
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150" alt="JavaScript Logo"/>
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Shokry Mohamed</h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150" alt="JavaScript Logo"/>
 
-<p align="center">
-  <b>Front-End Developer | UI Designer | Web Enthusiast</b><br/>
-  Building clean, modern, and interactive web interfaces 💻
-</p>
+<h1>👋 Hi, I'm Shokry Mohamed</h1>
+
+<b>Front-End Developer | UI Designer | Web Enthusiast</b><br/>
+Crafting clean, modern, and responsive web interfaces 💻
 
 ---
 
 ### 🧠 About Me
 
-- 💡 Passionate about crafting **beautiful, user-centered web experiences**
-- 🌱 Currently learning **advanced JavaScript** and **modern frameworks**
-- 🎯 My main goal is to deliver **smooth, responsive, and accessible** designs
-- 🎨 I care deeply about **design precision** and **performance optimization**
+💡 Passionate about crafting <b>beautiful, user-centered web experiences</b><br/>
+🌱 Currently learning <b>advanced JavaScript</b> and <b>modern frameworks</b><br/>
+🎯 My main goal is to deliver <b>smooth, responsive, and accessible</b> designs<br/>
+🎨 I care deeply about <b>design precision</b> and <b>performance optimization</b>
 
 ---
 
 ### 🚀 Tech Stack
 
 #### 🧩 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap" />
 
 #### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify" />
-</p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify" />
 
 ---
 
 ### 🌈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShokryMohamed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ShokryMohamed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?u
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShokryMohamed&theme=tokyonight" alt="GitHub Streak" />
+
+---
+
+### 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://twitter.com/yourprofile">
+  <img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=white">
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+---
+
+💙 Crafted with passion by <b>Shokry Mohamed</b> 💙
+
+</div>
