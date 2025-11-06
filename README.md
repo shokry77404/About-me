@@ -34,13 +34,14 @@ Crafting clean, modern, and responsive web interfaces 💻
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShokryMohamed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShokryMohamed&theme=tokyonight" alt="GitHub Streak" />
+<!-- ✅ إصلاح صورة GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=ShokryMohamed&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 
 ---
 
 ### 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/shokry-moh/">
+<a href="https://www.linkedin.com/in/yourprofile">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://twitter.com/yourprofile">
@@ -55,3 +56,4 @@ Crafting clean, modern, and responsive web interfaces 💻
 💙 Crafted with passion by <b>Shokry Mohamed</b> 💙
 
 </div>
+
