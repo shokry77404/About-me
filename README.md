@@ -23,32 +23,40 @@ Crafting clean, modern, and responsive web interfaces 💻
 ### 🚀 Tech Stack
 
 #### 🧩 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap" alt="Languages & Frameworks" />
+</p>
 
 #### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify" alt="Tools" />
+</p>
 
 ---
 
 ### 🌈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShokryMohamed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShokryMohamed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<!-- ✅ إصلاح صورة GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=ShokryMohamed&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShokryMohamed&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/shokry-moh/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shokry-moh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-</a>
-<a href="shokry.codes.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <a href="mailto:shokry.codes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
