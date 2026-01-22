@@ -1,66 +1,21 @@
-<!-- 💙 Modern Front-End Developer README by Shokry Mohamed 💙 -->
+# 💫 About Me:
+💻 Front-End Developer  <br>⚙️ Tech: HTML, CSS, JavaScript, React, Tailwind CSS  <br>🎨 Design: Figma, Adobe XD<br>🚀 Focused on clean UI, performance, and real-world web applications<br>
 
-<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150" alt="JavaScript Logo"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shokry-moh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shokry.codes@gmail.com) 
 
-<h1>👋 Hi, I'm Shokry Mohamed</h1>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shokry77404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shokry77404&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shokry77404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<b>Front-End Developer | UI Designer | Web Enthusiast</b><br/>
-Crafting clean, modern, and responsive web interfaces 💻
-
----
-
-### 🧠 About Me
-
-💡 Passionate about crafting <b>beautiful, user-centered web experiences</b><br/>
-🌱 Currently learning <b>advanced JavaScript</b> and <b>modern frameworks</b><br/>
-🎯 My main goal is to deliver <b>smooth, responsive, and accessible</b> designs<br/>
-🎨 I care deeply about <b>design precision</b> and <b>performance optimization</b>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shokry77404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=shokry77404&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Tech Stack
-
-#### 🧩 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap" alt="Languages & Frameworks" />
-</p>
-
-#### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify" alt="Tools" />
-</p>
-
----
-
-### 🌈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShokryMohamed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShokryMohamed&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shokry-moh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a href="mailto:shokry.codes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
-💙 Crafted with passion by <b>Shokry Mohamed</b> 💙
-
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
